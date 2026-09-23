@@ -1,0 +1,13 @@
+{
+  "population_size": 20,
+  "iterations": 50,
+  "alpha_start": 1.0,
+  "alpha_end": 0.3,
+  "time_weight": 0.4,
+  "distance_weight": 0.15,
+  "congestion_weight": 0.3,
+  "signal_weight": 0.15,
+  "random_seed": 42,
+  "penalty_infeasible": 5000,
+  "demo_speed_multiplier": 40.0
+}
